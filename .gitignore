@@ -3,5 +3,13 @@
 .classpath
 .settings/
 .idea/
+
 log/
 target/
+build/
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
