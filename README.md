@@ -2,6 +2,12 @@
 
 ## Installation instructions
 
-docker-compose up
+> $ docker-compose up --build
 
-./gradlew build && java -jar build/libs/gs-spring-boot-docker-0.1.0.jar
+## Running
+
+> $ docker-compose up
+
+Running outside the container
+
+> $ ./gradlew build && java -jar build/libs/gs-spring-boot-docker-0.1.0.jar
